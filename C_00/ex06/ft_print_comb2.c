@@ -6,7 +6,7 @@
 /*   By: sincesu <sincesu@student.42kocaeli.com.tr  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/27 17:58:02 by sincesu           #+#    #+#             */
-/*   Updated: 2023/03/27 18:34:06 by sincesu          ###   ########.tr       */
+/*   Updated: 2023/04/13 02:06:39 by sincesu          ###   ########.tr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,9 +42,4 @@ void	ft_print_comb2(void)
 		}
 		a++;
 	}
-}
-
-int	main(void)
-{
-	ft_print_comb2();
 }
